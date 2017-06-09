@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Jun 09 17:04:57 BST 2017
+2.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+7.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=E\:\\Github\\g-at-cgrx\\testwebview\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.set=ANDROID_RESOURCE
